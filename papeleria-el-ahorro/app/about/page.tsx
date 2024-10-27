@@ -8,7 +8,7 @@ function AboutPage({}: Props) {
   return (
     <Container>
       <h1 className='text-left text-2xl font-serif text-slate-800 mt-8 mb-8 '>
-        Acerca de Electrocréditos el Ahorro
+        Acerca de Papelería El Ahorro
       </h1>
       <div className="grid grid-cols-2 gap-8">
         <div className="bg-gray-200 p-6 flex flex-col justify-center items-center relative hover:shadow-xl transition duration-300">

@@ -110,6 +110,7 @@
     "dlv": "^1.1.3",
     "doctrine": "^3.0.0",
     "dom-helpers": "^5.2.1",
+    "electrocredits-savings": "file:",
     "electron-to-chromium": "^1.4.615",
     "emoji-regex": "^9.2.2",
     "enhanced-resolve": "^5.15.0",
